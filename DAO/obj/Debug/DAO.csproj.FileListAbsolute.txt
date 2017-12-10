@@ -1,0 +1,23 @@
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\bin\Debug\DAO.dll
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\bin\Debug\DAO.pdb
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\bin\Debug\DTO.dll
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\bin\Debug\DTO.pdb
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\obj\Debug\DAO.dll
+C:\Users\Mr.Thanh\Desktop\ông Vang\FinalAssignment\DAO\obj\Debug\DAO.pdb
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\bin\Debug\DAO.dll
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\bin\Debug\DAO.pdb
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\bin\Debug\DTO.dll
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\bin\Debug\DTO.pdb
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.dll
+D:\Bài tập\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.pdb
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\bin\Debug\DAO.dll
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\bin\Debug\DAO.pdb
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\bin\Debug\DTO.dll
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\bin\Debug\DTO.pdb
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.dll
+C:\Users\ProBooK\Desktop\PTTKGT\th___y-Vang\thầy Vang\FinalAssignment\DAO\obj\Debug\DAO.pdb
