@@ -1,0 +1,10 @@
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\BUS.dll
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\BUS.pdb
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\DAO.dll
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\DTO.dll
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\DAO.pdb
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\bin\Debug\DTO.pdb
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\obj\Debug\BUS.dll
+D:\Bài tập\Project_Vang\Manage_Cinema\BUS\obj\Debug\BUS.pdb
